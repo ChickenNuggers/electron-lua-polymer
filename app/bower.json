@@ -1,0 +1,28 @@
+{
+  "name": "electron-lua-polymer",
+  "description": "Polymer, Lua, and Electron Shell - All in one",
+  "main": "main.js",
+  "authors": [
+    "Ryan \"ChickenNuggers\" Rion <ryan@hashbang.sh>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Electron",
+    "Polymer",
+    "Lua"
+  ],
+  "homepage": "https://github.com/ChickenNuggers/electron-lua-polymer",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "iron-elements": "PolymerElements/Iron-Elements#^1.0.10",
+    "paper-elements": "PolymerElements/Paper-Elements#^1.0.7"
+  }
+}
